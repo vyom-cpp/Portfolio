@@ -212,7 +212,7 @@ span {
     border-radius: 10px;
 }
   
-.images::after {
+/* .images::after {
     content: "";
     width: 350px;
-} 
+}  */
