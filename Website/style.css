@@ -212,7 +212,13 @@ span {
     border-radius: 10px;
 }
   
-/* .images::after {
+.images::after {
     content: "";
     width: 350px;
-}  */
+} 
+
+.about-poem {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 2rem;
+}
